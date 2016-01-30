@@ -9,6 +9,5 @@ Salam World, this is my first blog post, I'm testing the new blog ecosystem that
 
 I will create a webpage that describe the technology stack used to build this website, so any one can follow these steps to create a nice blog with minimal but excellent technologiy mostly free :), that allow you on wirting with hacking in mind.
 
-Thanks
-Mohammed aka mhmd
-
+## Thanks
+### Mohammed aka mhmd
