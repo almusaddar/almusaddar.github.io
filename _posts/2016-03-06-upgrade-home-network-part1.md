@@ -1,7 +1,0 @@
----
-published: true
----
-
-## Part one
-
-
