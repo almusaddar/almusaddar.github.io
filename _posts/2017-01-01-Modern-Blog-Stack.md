@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modren Blog Stack"
+title: "Modern Blog Stack"
 published: true
 ---
 In this blog I will list the tools that I used to build this Blog, please notice that this stack is based on free services offered by different technologies, except for the domain.
