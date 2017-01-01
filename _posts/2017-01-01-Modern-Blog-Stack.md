@@ -3,7 +3,7 @@ layout: post
 title: "Modern Blog Stack"
 published: true
 ---
-In this blog I will list the tools that I used to build this Blog, please notice that this stack is based on free services offered by different technologies, except for the domain.
+In this post I will list the tools that I used to build this Blog, please notice that this stack is based on free services offered by different technologies, except for the domain.
 
 Here is the stack I used to manage this blog:
 
@@ -20,3 +20,6 @@ Here is the stack I used to manage this blog:
 * Backup - Dropbox
 * Project management - Trello 
 * Communication - Slack/Skype
+* Google ads - small revenue from the blog
+
+If you have any suggestion, please share using the comments below.
