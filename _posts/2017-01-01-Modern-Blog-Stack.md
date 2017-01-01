@@ -3,7 +3,7 @@ layout: post
 title: "Modern Blog Stack"
 published: true
 ---
-(https://github.com/mhmdio/mhmdio.github.io/raw/master/images/jekyll.jpg)
+![alt text](https://github.com/mhmdio/mhmdio.github.io/raw/master/images/jekyll.jpg)
 
 In this post I will list the tools that I used to build this Blog, please notice that this stack is based on free services offered by different technologies, except for the domain.
 
