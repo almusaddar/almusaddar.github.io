@@ -12,11 +12,10 @@ I have successfully used Open Source Security tools to harden on-premise and clo
 
 I have well experience background as network and systems Engineer, who worked with Cisco, HPE, VMware, Fortinet, Microsoft, Linux. Check my work:
 
-- mhmd.io
-- github.com/mhmdio
-- twitter.com/mhmd_io
-- slideshare.net/MohammedAlmusaddar
-- youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw
+- [github.com/mhmdio](github.com/mhmdio)
+- [twitter.com/mhmd_io](twitter.com/mhmd_io)
+- [slideshare.net/MohammedAlmusaddar](slideshare.net/MohammedAlmusaddar)
+- [youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw](youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw)
 
 Skills:
 - Ansible / Terraform / Vault / Vagrant / Packer / Consul / Python
