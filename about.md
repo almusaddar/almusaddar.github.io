@@ -4,14 +4,26 @@ title: About
 permalink: /about/
 published: true
 ---
+Salam World, My name is Mohammed Almusaddar, from Gaza, Palestine.
 
+I'm working on Developing Cloud Solutions and Automation Projects for AWS, DigitalOcean and other cloud providers using Open Source tools.
 
-My name is Mohammed Almusaddar, network and system engineer from gaza, palestine.
-This is my blog which contains the thing I would love to share with the rest of the world.
+I have successfully used Open Source Security tools to harden on-premise and cloud data centers.
 
-### More Information
-The blog may talk about new trends in networking and systems, specially opensource;
+I have well experience background as network and systems Engineer, who worked with Cisco, HPE, VMware, Fortinet, Microsoft, Linux. Check my work:
+
+- mhmd.io
+- github.com/mhmdio
+- twitter.com/mhmd_io
+- slideshare.net/MohammedAlmusaddar
+- youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw
+
+Skills:
+- Ansible / Terraform / Vault / Vagrant / Packer / Consul / Python
+- OpenStack / Docker / Jenkins / Monitoring / Elastic Stack
+- AWS, GCP, DigitalOcean, kyup, Vultr, Packet
+- OSSEC / OpenVAS / Nikto / Security Onion / Kali
 
 ### Contact me
 
-[salam@mhmd.io](mailto:salam@mhmd.io)
+[admin@mhmd.io](mailto:admin@mhmd.io)
