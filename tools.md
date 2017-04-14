@@ -15,4 +15,6 @@ Tools for everyday DevOps:
 - Vault
 - GSuite for Documentation
 - Atom.io
+- iTerm2
+- git
 - GitHub Desktop

@@ -12,7 +12,9 @@ Current Projects I'm working on:
 This is a list of projects thats I'm interested in:
 
 ### OpenSource
-- Ansible Playbooks
-- Openstack Ansible Playbooks
+- Ansible
+- OpenStack  
 - Terraform
 - Vagrant
+- Packer
+- Atom

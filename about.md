@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 published: true
 ---
-Salam World, My name is Mohammed Almusaddar, from Gaza, Palestine.
+Salam World, I'm Mohammed Almusaddar, from Gaza, Palestine.
 
 I'm working on Developing Cloud Solutions and Automation Projects for AWS, DigitalOcean and other cloud providers using Open Source tools.
 
-I have successfully used Open Source Security tools to harden on-premise and cloud data centers.
+I have used Open Source Security tools to harden on-premise and cloud data centers.
 
 I have well experience background as network and systems Engineer, who worked with Cisco, HPE, VMware, Fortinet, Microsoft, Linux. Check my work:
 
