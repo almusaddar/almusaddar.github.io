@@ -7,7 +7,7 @@ It's almost a year since I have wrote a blog post, I wasn't manage my time prope
 
 The new devices added:
 - ADSL Router act as Bridge.
-- Mikrotik RB750GL act as main router + dhcp 
+- Mikrotik RB750GL act as main router + dhcp + firewall
 - RASPBERRY PI 3 MODEL B ac as DNS Server and Ad back hole.
 - TP-Link WDR4300 act as main WiFi AP using OpenWRT
 
