@@ -3,7 +3,7 @@ layout: post
 title: "Provision Windows on AWS using Terraform and Ansible"
 published: true
 ---
-![alt text](https://github.com/mhmdio/mhmdio.github.io/raw/master/images/terraform-ansible.jpg)
+![alt text](https://github.com/mhmdio/mhmdio.github.io/raw/master/images/terraform-ansible.png)
 
 You can define you infrastructure as a code using Terraform and Ansible, and update and configure you Windows systems easily, all source code will be manage with github/bitbucket.
 
