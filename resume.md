@@ -21,15 +21,15 @@ I have well experience background as network and systems Engineer, who worked wi
 - OSSEC / OpenVAS / Nikto / Security Onion / Kali
 
 ## Check my work/contributions:
-- [Github](github.com/mhmdio)
-- [Gitlab](gitlab.com/mhmdio)
+- [Github](https://github.com/mhmdio)
+- [Gitlab](https://gitlab.com/mhmdio)
 - [Dev.to](https://dev.to/mhmdio)
-- [Slideshare](slideshare.net/MohammedAlmusaddar)
-- [Youtube Channel](youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw)
+- [Slideshare](https://slideshare.net/MohammedAlmusaddar)
+- [Youtube Channel](https://youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw)
 - [Stackoverflow](https://stackoverflow.com/users/5532207/mohammed-almusaddar)
 
 ## Contact/follows me:
 
 - [Linkedin](https://www.linkedin.com/in/mhmdio/)
-- [Twitter](twitter.com/mhmd_io)
+- [Twitter](https://twitter.com/mhmd_io)
 - [Email](mailto:admin@mhmd.io)
