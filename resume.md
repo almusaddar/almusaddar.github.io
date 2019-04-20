@@ -32,6 +32,4 @@ I have well experience background as network and systems Engineer, who worked wi
 
 - [Linkedin](https://www.linkedin.com/in/mhmdio/)
 - [Twitter](twitter.com/mhmd_io)
-- linkedin: mhmdio
-- stackoverflow: users/5532207/mohammed-almusaddar
-- [admin@mhmd.io](mailto:admin@mhmd.io)
+- [Email](mailto:admin@mhmd.io)
