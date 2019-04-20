@@ -4,9 +4,7 @@ title: Services
 permalink: /services/
 published: true
 ---
-# Services
-
-this is a short description about services and projects I can help with.
+This is a short description about services and projects I can help with.
 
 ## Solutions
 
@@ -40,6 +38,15 @@ this is a short description about services and projects I can help with.
 - KeePass
 - GitHub Desktop
 - Notion
+- K8s
+- SimpleNote
+- EverNote
+- Trello
+- Slack
+- AirMail
+- WunderList
+- 1Password
+- Chrome
 
 ## Youtube Channel
 
