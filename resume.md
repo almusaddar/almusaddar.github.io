@@ -23,6 +23,7 @@ I have well experience background as network and systems Engineer, who worked wi
 ## Check my work/contributions:
 - [Github](https://github.com/mhmdio)
 - [Gitlab](https://gitlab.com/mhmdio)
+- [Bitbucket](https://bitbucket.org/myalmusaddar/)
 - [Dev.to](https://dev.to/mhmdio)
 - [Slideshare](https://slideshare.net/MohammedAlmusaddar)
 - [Youtube Channel](https://youtube.com/channel/UCbwcohrMkjVdG2dxHPHfElw)
@@ -33,3 +34,73 @@ I have well experience background as network and systems Engineer, who worked wi
 - [Linkedin](https://www.linkedin.com/in/mhmdio/)
 - [Twitter](https://twitter.com/mhmd_io)
 - [Email](mailto:admin@mhmd.io)
+
+## Startups
+
+- iJada.IT from 2015-2017
+- [CloudFalcon.io](https://CloudFalcon.io) 2019-now
+
+## Services
+
+This is a short description about services and projects I can help with.
+
+### Solutions
+
+- Cloud Solutions
+- Networks and System Solutions
+- Security Solutions
+
+### Projects
+
+- AWS Deployment using Terraform, Packer, Ansible and Jenkins
+- GSuite APIs using Postman
+- Open Source Security Tools for Linux and Windows
+
+### Tools 
+
+- Ansible
+- Terraform
+- Vagrant
+- Packer
+- Consul
+- Vault
+- Jenkins
+- Docker
+- Bash
+- Python
+- iTerm2
+- git
+- Atom
+- VSCode
+- mRemoteNG
+- KeePass
+- GitHub Desktop
+- Notion
+- K8s
+- SimpleNote
+- EverNote
+- Trello
+- Slack
+- AirMail
+- WunderList
+- 1Password
+- Chrome
+
+### Youtube Channel
+
+- Cloud Tutorials
+- Networks and System Tutorials
+- DevOps Tutorials
+- Security Tutorials
+
+### Training
+
+I can help with training in the following DevOps tools:
+
+- Terraform
+- Vault
+- Ansible
+- Consul
+- Packer
+- Vagrant
+- AWS
