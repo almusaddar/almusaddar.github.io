@@ -45,3 +45,13 @@ for command in kubectl aws-iam-authenticator jq envsubst
     which $command &>/dev/null && echo "$command in path" || echo "$command NOT FOUND"
   done
 ```
+
+## eksctl - a CLI for Amazon EKS
+Instead of using AWS console to create EKS cluster, you can use a more simpler but powerfull tool.
+
+eksctl is a simple CLI tool for creating clusters on EKS - Amazon’s new managed Kubernetes service for EC2. It is written in Go, and uses CloudFormation.
+
+```bash
+brew tap weaveworks/tap
+brew install weaveworks/tap/eksctl
+```
