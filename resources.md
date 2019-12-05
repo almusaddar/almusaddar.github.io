@@ -14,6 +14,9 @@ List of resources I created or found helpfull with my Career.
 ## Books
 
 1. The Phoenix project.
+1. Competing with Unicorns.
 1. Infrastructure as a Code.
-1. Terraform up and running.
+1. Site Reliability Engineering
+1. Terraform up and running. (1st and 2nd)
 1. Ansible for DevOps.
+1. Kubernetes up and running
